@@ -6588,5 +6588,16 @@
       "emulator",
       "psx"
     ]
+  },
+    {
+    "id": 743,
+    "name": "Brotato, Claws and Paws",
+    "cover": "{COVER_URL}/743.png",
+    "url": "{HTML_URL}/743.html",
+    "author": "Capcom, dude, shxyder",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+         "port"
+    ]
   }
 ]
